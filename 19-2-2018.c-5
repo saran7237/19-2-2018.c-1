@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+int n
+printf("enter the prime values");
+scanf("%d",&a);
+printf("enter the values");
+scanf("%d",&b);
+c=a+b;
+printf("enter the value");
+scanf("%d",&c);
+getch ();
+return 0;
+}
